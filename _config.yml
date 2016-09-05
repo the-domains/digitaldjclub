@@ -1,20 +1,4 @@
-name: Digital DJ Club
-favicon: null
-layout_spectrum: 0.6092305842321366
 typography_spectrum: 0.4624316196423024
-title: Digital DJ Club
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -26,4 +10,24 @@ color:
   lightness: 0.4102385160513222
   saturation: 0.6460075979121029
   rhythmicContrast: 0.4224320852663368
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6092305842321366
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Digital DJ Club
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: 30+ PARTY'S
+    id: e4991f11-459a-4119-9b65-36af5ccac079
+    type: content
+favicon: null
+title: Digital DJ Club
 purpose: []
